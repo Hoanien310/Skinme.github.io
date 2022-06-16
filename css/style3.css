@@ -1,0 +1,18 @@
+@charset "utf-8";
+/* CSS Document */
+body {
+width: 600px;
+margin: 0 auto;
+}
+img {
+width: 100%;
+}
+h1{
+	text-align: center;
+	font-size: 2em;
+}
+table,th,td{
+        border:1px solid black;
+        border-collapse:collapse;
+        padding:5px;
+    }
